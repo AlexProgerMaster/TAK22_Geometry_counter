@@ -19,9 +19,6 @@ public class Rectangle {
     public double getSideA() {
         return sideA;
     }
-    public double getSideB() {
-        return sideB;
-    }
     public double setSideB() {
         System.out.print("Enter the side b: ");
         sideB = scanner.nextDouble();
